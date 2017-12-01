@@ -4,12 +4,13 @@ import {RouterModule, Routes} from '@angular/router';
 import {CheckoutComponent} from "../cart/checkout/checkout.component";
 import {AppComponent} from "../app.component";
 import {CartComponent} from "../cart/cart.component";
+import {HomeComponent} from "../home/home.component";
 
 
 const APPROUTES: Routes = [
   {
     path: 'cart',
-    component: CartComponent,
+    // component: CartComponent,
     // canActivate: [AuthGuard],
     children: [
       {
@@ -21,7 +22,7 @@ const APPROUTES: Routes = [
       }
     ]
   },
-  {path: 'home', component: AppComponent},
+  {path: 'home', component: HomeComponent},
   {path: '**', redirectTo: '/home'}
 ];
 
