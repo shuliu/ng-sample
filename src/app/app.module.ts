@@ -10,6 +10,7 @@ import {HeaderComponent} from './header/header.component';
 import {ProductComponent} from './product/product.component';
 import {CartModule} from "./cart/cart.module";
 import {ProductModule} from "./product/product.module";
+import {GoogleAnalyticsEventsService} from "./google-analytics-events-service.service";
 
 
 @NgModule({
@@ -27,7 +28,7 @@ import {ProductModule} from "./product/product.module";
     CartModule,
     ProductModule
   ],
-  providers: [],
+  providers: [GoogleAnalyticsEventsService],
   bootstrap: [AppComponent]
 })
 export class AppModule {
