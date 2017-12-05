@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-heart</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="28" height="28" rx="2"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="index(S-CARE)-orange" transform="translate(-2333.000000, -145.000000)">
+            <g id="icon-heart" transform="translate(2333.000000, 145.000000)">
+                <g id="Rectangle-2">
+                    <use fill="#F2AD00" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke-opacity="0.101449275" stroke="#000000" stroke-width="1" x="0.5" y="0.5" width="27" height="27" rx="2"></rect>
+                </g>
+                <path d="M18.4527802,5.87272727 C17.0723742,5.87272727 15.1235658,6.60353045 14.0679612,8.71473963 C13.0935569,6.60353045 11.1447485,5.87272727 9.6831421,5.87272727 C7.49073257,5.87272727 5.13592233,7.49673433 5.13592233,11.0695499 C5.13592233,13.6679612 6.59752868,16.4287732 9.52074139,19.1895852 C11.6319506,21.219594 13.7431598,22.4375993 13.8243601,22.5187996 C13.9055605,22.6 13.9867608,22.6 14.0679612,22.6 C14.1491615,22.6 14.2303619,22.6 14.3115622,22.5187996 C14.3927626,22.4375993 16.5039718,21.219594 18.6151809,19.1895852 C21.5383936,16.4287732 23,13.7491615 23,11.0695499 C23,7.49673433 20.6451898,5.87272727 18.4527802,5.87272727 L18.4527802,5.87272727 Z" id="coeur_16_" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
